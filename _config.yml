@@ -3,6 +3,6 @@ theme: jekyll-theme-minimal
 title: trust|me
 description: This is the trust|me project documentation
 githuborg: https://github.com/trustm3
-repository: trustme_main
+repository: trustm3/trustm3.github.io
 release_tag: v0.1.1
 markdown: kramdown
